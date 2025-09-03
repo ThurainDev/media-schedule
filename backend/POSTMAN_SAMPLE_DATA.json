@@ -1,0 +1,427 @@
+{
+  "users": [
+    {
+      "username": "video_leader",
+      "email": "video.leader@church.com",
+      "password": "password123",
+      "role": "team_leader",
+      "team": "Video Team",
+      "name": "John Smith"
+    },
+    {
+      "username": "photo_leader",
+      "email": "photo.leader@church.com",
+      "password": "password123",
+      "role": "team_leader",
+      "team": "Photo Team",
+      "name": "Sarah Wilson"
+    },
+    {
+      "username": "vj_leader",
+      "email": "vj.leader@church.com",
+      "password": "password123",
+      "role": "team_leader",
+      "team": "VJ Team",
+      "name": "David Miller"
+    },
+    {
+      "username": "lighting_leader",
+      "email": "lighting.leader@church.com",
+      "password": "password123",
+      "role": "team_leader",
+      "team": "Lighting Team",
+      "name": "Alex Thompson"
+    },
+    {
+      "username": "photo_member1",
+      "email": "photo1@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "Mike Johnson"
+    },
+    {
+      "username": "photo_member2",
+      "email": "photo2@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "Lisa Davis"
+    },
+    {
+      "username": "photo_member3",
+      "email": "photo3@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "Tom Brown"
+    },
+    {
+      "username": "photo_member4",
+      "email": "photo4@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "Emma Garcia"
+    },
+    {
+      "username": "photo_member5",
+      "email": "photo5@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "James Rodriguez"
+    },
+    {
+      "username": "photo_member6",
+      "email": "photo6@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "Maria Martinez"
+    },
+    {
+      "username": "photo_member7",
+      "email": "photo7@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "Chris Lee"
+    },
+    {
+      "username": "photo_member8",
+      "email": "photo8@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "Anna White"
+    },
+    {
+      "username": "photo_member9",
+      "email": "photo9@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "Robert Taylor"
+    },
+    {
+      "username": "photo_member10",
+      "email": "photo10@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Photo Team",
+      "name": "Jennifer Clark"
+    },
+    {
+      "username": "video_member1",
+      "email": "video1@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Daniel Wilson"
+    },
+    {
+      "username": "video_member2",
+      "email": "video2@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Sophie Anderson"
+    },
+    {
+      "username": "video_member3",
+      "email": "video3@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Michael Chen"
+    },
+    {
+      "username": "video_member4",
+      "email": "video4@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Emily Davis"
+    },
+    {
+      "username": "video_member5",
+      "email": "video5@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Ryan Johnson"
+    },
+    {
+      "username": "video_member6",
+      "email": "video6@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Amanda Lee"
+    },
+    {
+      "username": "video_member7",
+      "email": "video7@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Kevin Brown"
+    },
+    {
+      "username": "video_member8",
+      "email": "video8@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Jessica Garcia"
+    },
+    {
+      "username": "video_member9",
+      "email": "video9@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Brian Martinez"
+    },
+    {
+      "username": "video_member10",
+      "email": "video10@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Video Team",
+      "name": "Nicole Taylor"
+    },
+    {
+      "username": "vj_member1",
+      "email": "vj1@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Kevin Anderson"
+    },
+    {
+      "username": "vj_member2",
+      "email": "vj2@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Rachel Green"
+    },
+    {
+      "username": "vj_member3",
+      "email": "vj3@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Steven White"
+    },
+    {
+      "username": "vj_member4",
+      "email": "vj4@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Laura Clark"
+    },
+    {
+      "username": "vj_member5",
+      "email": "vj5@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Mark Lewis"
+    },
+    {
+      "username": "vj_member6",
+      "email": "vj6@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Catherine Hall"
+    },
+    {
+      "username": "vj_member7",
+      "email": "vj7@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Andrew Scott"
+    },
+    {
+      "username": "vj_member8",
+      "email": "vj8@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Michelle Adams"
+    },
+    {
+      "username": "vj_member9",
+      "email": "vj9@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Timothy Baker"
+    },
+    {
+      "username": "vj_member10",
+      "email": "vj10@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "VJ Team",
+      "name": "Stephanie Carter"
+    },
+    {
+      "username": "lighting_member1",
+      "email": "lighting1@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Rachel Green"
+    },
+    {
+      "username": "lighting_member2",
+      "email": "lighting2@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Thomas Evans"
+    },
+    {
+      "username": "lighting_member3",
+      "email": "lighting3@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Hannah King"
+    },
+    {
+      "username": "lighting_member4",
+      "email": "lighting4@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Jonathan Wright"
+    },
+    {
+      "username": "lighting_member5",
+      "email": "lighting5@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Victoria Lopez"
+    },
+    {
+      "username": "lighting_member6",
+      "email": "lighting6@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Christopher Hill"
+    },
+    {
+      "username": "lighting_member7",
+      "email": "lighting7@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Olivia Turner"
+    },
+    {
+      "username": "lighting_member8",
+      "email": "lighting8@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Nathan Phillips"
+    },
+    {
+      "username": "lighting_member9",
+      "email": "lighting9@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Grace Campbell"
+    },
+    {
+      "username": "lighting_member10",
+      "email": "lighting10@church.com",
+      "password": "password123",
+      "role": "team_member",
+      "team": "Lighting Team",
+      "name": "Brandon Parker"
+    }
+  ],
+  "sample_schedules": [
+    {
+      "date": "2024-01-20",
+      "day": "saturday",
+      "service": "Fasting Service",
+      "time": "9 AM",
+      "team": "Photo Team",
+      "assignments": {
+        "Lead": "Sarah Wilson",
+        "Assist": "Mike Johnson"
+      },
+      "notes": "Capture worship moments"
+    },
+    {
+      "date": "2024-01-20",
+      "day": "saturday",
+      "service": "The Arrow Service",
+      "time": "2 PM",
+      "team": "Photo Team",
+      "assignments": {
+        "Lead": "Sarah Wilson",
+        "Assist": "Lisa Davis"
+      },
+      "notes": "Focus on sermon highlights"
+    },
+    {
+      "date": "2024-01-21",
+      "day": "sunday",
+      "service": "Main Service",
+      "time": "9 AM",
+      "team": "Photo Team",
+      "assignments": {
+        "Lead": "Sarah Wilson",
+        "Assist": "Emma Garcia"
+      },
+      "notes": "Full service coverage"
+    }
+  ],
+  "test_scenarios": {
+    "login_photo_leader": {
+      "url": "POST /api/auth/login",
+      "body": {
+        "email": "photo.leader@church.com",
+        "password": "password123"
+      }
+    },
+    "get_photo_team_members": {
+      "url": "GET /api/auth/team-members/Photo Team",
+      "headers": {
+        "Authorization": "Bearer {token}"
+      }
+    },
+    "create_photo_schedule": {
+      "url": "POST /api/schedules",
+      "headers": {
+        "Authorization": "Bearer {token}"
+      },
+      "body": {
+        "date": "2024-01-20",
+        "day": "saturday",
+        "service": "Fasting Service",
+        "time": "9 AM",
+        "team": "Photo Team",
+        "assignments": {
+          "Lead": "Sarah Wilson",
+          "Assist": "Mike Johnson"
+        },
+        "notes": "Capture worship moments"
+      }
+    }
+  }
+} 
